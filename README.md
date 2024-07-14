@@ -4,7 +4,7 @@
 - 🎓 Graduated with a BSc from MDS University in Ajmer (Rajasthan).
 - 💻 A full-stack developer passionate about creating dynamic and responsive web applications.
 - 🔧 Hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
-- 🎓 Completed the courses "Mastering the Fundamentals," "Mastering JavaScript Programming," and an SQL course at Geekster.
+- 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL course at Geekster.
 - 🏆 Also completed the Java Course - Mastering the Fundamentals at SCALER-TOPICS.
  
 ### Projects and Contributions
