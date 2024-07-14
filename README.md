@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Praveen!
 
 ### About Me
-- 🎓 I graduated with a BSc from MDS University in Ajmer (Rajasthan).
-- 💻 I'm a full-stack developer passionate about creating dynamic and responsive web applications.
-- 🔧 I hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
-- 🎓 I completed the courses "Mastering the Fundamentals," "Mastering JavaScript Programming," and an SQL course at Geekster.
-- 🏆 I also completed the Java Course - Mastering the Fundamentals at SCALER-TOPICS.
+- 🎓 Graduated with a BSc from MDS University in Ajmer (Rajasthan).
+- 💻 A full-stack developer passionate about creating dynamic and responsive web applications.
+- 🔧 Hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
+- 🎓 Completed the courses "Mastering the Fundamentals," "Mastering JavaScript Programming," and an SQL course at Geekster.
+- 🏆 Also completed the Java Course - Mastering the Fundamentals at SCALER-TOPICS.
  
 ### Projects and Contributions
 - 🚀 [Hotels.com Clone (https://praveen-hotelscloneweb.netlify.app/)] - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
