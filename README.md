@@ -19,7 +19,7 @@
 - 🧠 Machine Learning: Exploring the world of AI and ML.
 
 ### Get in Touch
-- 📫 You can reach me at [your-email@example.com](paru2192000@gmail.com).
+- 📫 You can reach me at (paru2192000@gmail.com).
 - 🌐 Visit my [portfolio website](link-to-your-website) to see more of my work.
 - 💼 Connect with me on [LinkedIn]([link-to-your-linkedin-profile](https://www.linkedin.com/in/praveen219/)).
 
