@@ -8,8 +8,8 @@
 - 🏆 I also completed the Java Course - Mastering the Fundamentals at SCALER-TOPICS.
  
 ### Projects and Contributions
-- 🚀 [Hotels.com Clone (https://main--praveen219.netlify.app/)] - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
-- 🌟 [Landing Page](link-to-project) - A modern, responsive landing page designed for a marketing campaign.
+- 🚀 [Hotels.com Clone (https://main--hotelscloneweb.netlify.app/)] - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
+- 🌟 [Landing Page (https://main--css-project0.netlify.app/projests/landing-page-html-css/index.html)] - A modern, responsive landing page designed for a marketing Business.
 - 🌤️ [Weather App](link-to-project) - A web application that provides real-time weather updates.
 - 📋 [Task Manager](link-to-project) - A task management tool to keep track of daily tasks.
 - 🛒 [E-commerce Website](link-to-project) - A full-fledged e-commerce website with user authentication and payment integration.
