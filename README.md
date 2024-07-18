@@ -5,8 +5,9 @@
 - 🎓 Currently Learning A Full-Stack Web Development course at @Geekster. 
 - 💻 A full-stack web developer passionate about creating dynamic and responsive web applications.
 - 🔧 Hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
-- 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL course at Geekster.
-- 🏆 Also completed the Java Course - Mastering the Fundamentals at SCALER-TOPICS.
+- 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL Certification course at Geekster.
+- 🏆 Also completed the Java Course - Mastering the Fundamentals Certification at SCALER-TOPICS.
+- 🏆 Completed the Legacy JavaScript Algorithms and Data Structures Developer Certification from freeCodeCamp.
  
 ### Projects and Contributions
 - 🚀 [Hotels.com Clone (https://praveen-hotelscloneweb.netlify.app/)] - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
