@@ -7,7 +7,7 @@
 - 🔧 Hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
 - 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL Certification course at Geekster.
 - 🏆 Completed the "Java Course - Mastering the Fundamentals" Certification at SCALER-TOPICS.
-- 🏆 Completed the "Legacy JavaScript Algorithms and Data Structures" Developer Certification from freeCodeCamp.
+- 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer Certification from freeCodeCamp on July 19, 2024.
  
 ### Projects and Contributions
 - 🚀 [Hotels.com Clone (https://praveen-hotelscloneweb.netlify.app/)] - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
