@@ -4,7 +4,7 @@
 - 🎓 Graduated with a BSc from MDS University in Ajmer (Rajasthan).
 - 🎓 Currently Learning A Full-Stack Web Development course at @Geekster. 
 - 🔧 Hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
-- 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL Certification course at Geekster.
+- 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL course Certification from Geekster.
 - 🏆 Completed the "Java Course - Mastering the Fundamentals" Certification at SCALER-TOPICS.
 - 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer Certification from freeCodeCamp on July 19, 2024.
  
