@@ -16,8 +16,8 @@
 - 🛒 [E-commerce Website](link-to-project) - A full-fledged e-commerce website with user authentication and payment integration.
 
 ### Interests
-- 🌐 Web Development: Creating interactive and user-friendly websites => Backend Development, Frontend Development, Software Architecture, Clean Code.
-- 🧠 Machine Learning: Exploring the world of AI and ML.
+- 🌐 Web Development: Specializing in both Backend and Frontend Development to create interactive, user-friendly websites. Focused on mastering Software Architecture principles and writing Clean Code to build scalable and maintainable web applications.
+- 🧠 Machine Learning: Passionate about exploring AI and ML technologies. Interested in applying machine learning techniques to solve real-world problems and enhance data-driven decision-making processes.
 
 ### Get in Touch
 - 📫 You can reach me at (paru2192000@gmail.com).
