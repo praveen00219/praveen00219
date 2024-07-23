@@ -9,8 +9,8 @@
 - 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer Certification from freeCodeCamp on July 19, 2024.
  
 ### Projects and Contributions
-- 🚀 [Hotels.com Clone (https://praveen-hotelscloneweb.netlify.app/)] - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
-- 🌟 [Landing Page (https://main--css-project0.netlify.app/projests/landing-page-html-css/index.html)] - A modern, responsive landing page designed for a marketing Business.
+- 🚀 [Hotels.com Clone ].(https://praveen-hotelscloneweb.netlify.app/). - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
+- 🌟 [Landing Page ].(https://main--css-project0.netlify.app/projests/landing-page-html-css/index.html) - A modern, responsive landing page designed for a marketing Business.
 - 🌤️ [Weather App](link-to-project) - A web application that provides real-time weather updates.
 - 📋 [Task Manager](link-to-project) - A task management tool to keep track of daily tasks.
 - 🛒 [E-commerce Website](link-to-project) - A full-fledged e-commerce website with user authentication and payment integration.
