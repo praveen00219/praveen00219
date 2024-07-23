@@ -3,10 +3,10 @@
 ### About Me
 - 🎓 Graduated with a BSc from MDS University in Ajmer (Rajasthan).
 - 🎓 Currently Learning A Full-Stack Web Development course at @Geekster. 
-- 🔧 Hold certificates in Git-GitHub, HTML/CSS, Java, JavaScript, and SQL.
-- 🎓 Completed the courses "Mastering the JAVA Fundamentals", "Mastering JavaScript Programming", and an SQL course Certification from Geekster.
-- 🏆 Completed the "Java Course - Mastering the Fundamentals" Certification at SCALER-TOPICS.
-- 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer Certification from freeCodeCamp on July 19, 2024.
+- 🔧 Hold certificates in [Git-GitHub](https://certifications.geekster.in/-Xx-DYDop-o0sSaJ5lJnK-geekster.pdf), [Building Responsive Page](https://certifications.geekster.in/-k01RhLXfBW_3kfujnAqP-geekster.pdf), [JAVA](link-to-project), [JavaScript at Geekster](https://certifications.geekster.in/ALrlplNwi9x5__0VGVfBx-geekster.pdf), [JavaScript at freeCodeCamp](https://www.freecodecamp.org/certification/Praveen21/javascript-algorithms-and-data-structures) and  [SQL](https://certifications.geekster.in/yZqp3XSxCGnEM7WHDwAF4-geekster.pdf).
+- 🎓 Completed the courses ["Mastering the JAVA Fundamentals"](link-to-project), ["Mastering JavaScript Programming"](https://certifications.geekster.in/ALrlplNwi9x5__0VGVfBx-geekster.pdf), and an  [SQL](https://certifications.geekster.in/yZqp3XSxCGnEM7WHDwAF4-geekster.pdf) course Certification from Geekster.
+- 🏆 Completed the "Java Course - Mastering the Fundamentals" [Certification](https://moonshot.scaler.com/s/li/E917PSUwNz)  at SCALER-TOPICS.
+- 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer [Certification](https://www.freecodecamp.org/certification/Praveen21/javascript-algorithms-and-data-structures) from freeCodeCamp on July 19, 2024.
  
 ### Projects and Contributions
 - 🚀 [Hotels.com-Clone](https://praveen-hotelscloneweb.netlify.app/). - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
