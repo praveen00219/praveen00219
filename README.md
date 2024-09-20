@@ -23,7 +23,7 @@
 
 ### Get in Touch
 - 📫 You can reach me at (paru2192000@gmail.com).
-- 🌐 Visit my [portfolio website](link-to-your-website) to see more of my work.
+- 🌐 Visit my [portfolio website](https://praveen-portfolio-js.netlify.app/) to see more of my work.
 - 💼 Connect with me on (https://www.linkedin.com/in/praveen219/)).
 
 
