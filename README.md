@@ -22,7 +22,7 @@
 - 🧠 Machine Learning: Passionate about exploring AI and ML technologies. Interested in applying machine learning techniques to solve real-world problems and enhance data-driven decision-making processes.
 
 ### Get in Touch
-- 📫 You can reach me at [Gmail](paru2192000@gmail.com).
+- 📫 You can reach me at [Gmail](praveenbarfa001@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen219/).
 - 🌐 Visit my [portfolio website](https://praveen-portfolio-js.netlify.app/) to see more of my work.
 
