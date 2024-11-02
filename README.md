@@ -7,7 +7,7 @@
 - 🎓 Completed the courses ["Mastering the JAVA Fundamentals"](https://certifications.geekster.in/iVqg6LsAnP_eJqsd_nKrn-geekster.pdf), ["Mastering JavaScript Programming"](https://certifications.geekster.in/ALrlplNwi9x5__0VGVfBx-geekster.pdf), and an  [SQL](https://certifications.geekster.in/yZqp3XSxCGnEM7WHDwAF4-geekster.pdf) course Certification from Geekster.
 - 🏆 Completed the "Java Course - Mastering the Fundamentals" [Certification](https://moonshot.scaler.com/s/li/E917PSUwNz)  at SCALER-TOPICS.
 - 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer [Certification](https://www.freecodecamp.org/certification/Praveen21/javascript-algorithms-and-data-structures) from freeCodeCamp.
- 
+- leetcode : successfully tackled over 225+ data structures and algorithms (DSA) questions, demonstrating a strong grasp of problem-solving skills 
 ### Projects and Contributions
 - 🚀 [Hotels.com-Clone](https://praveen-hotelscloneweb.netlify.app/). - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
 - 🌟 [Aria-landing Business](https://main--css-project0.netlify.app/projests/landing-page-html-css/index.html) - A modern, responsive landing page designed for a marketing Business.
@@ -24,6 +24,7 @@
 ### Get in Touch
 - 📫 You can reach me at [Gmail](praveenbarfa001@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen219/).
+- {} Leetcode profile : [Praveen](https://leetcode.com/u/Prvn21/)
 - 🌐 Visit my [portfolio website](https://praveen-portfolio-js.netlify.app/) to see more of my work.
 
 
