@@ -11,8 +11,8 @@
 
 ### Projects and Contributions
 - 💰️ [Odoo ||Expense Tracker](https://praveen-expense-tracker-odoo.netlify.app/) - Odoo || Expense Tracker application, a powerful tool to help users manage their expenses, visualize spending patterns, and receive personalized financial advice. Built using HTML, CSS, JavaScript, and Chart.js, this app integrates AI to provide a comprehensive financial management experience.
-- 🌤️ [Google Drive Clone]() - A Google Drive Clone built with React, Vite, Redux, Tailwind CSS, Styled Components, Material-ui/material-icons, and Firebase. This application enables users to manage files and folders, offering features like file uploads, folder creation, deletion, and favoriting, along with a fullscreen preview option for a streamlined document management experience.
-- 📋 [Task Manager](link-to-project) - A task management tool to keep track of daily tasks.
+- 🎞️ [Google Drive Clone](https://praveen-google-drive-react.netlify.app/) - A Google Drive Clone built with React, Vite, Redux, Tailwind CSS, Styled Components, Material-ui/material-icons, and Firebase. This application enables users to manage files and folders, offering features like file uploads, folder creation, deletion, and favoriting, along with a fullscreen preview option for a streamlined document management experience.
+- 📋 [LinkedIn Clone](https://praveen-linked-in-clone-reactjs.netlify.app/) - This project is a clone of the LinkedIn platform, focusing on replicating its interface and functionalities. It aims to provide users with a familiar experience while showcasing my skills in front-end development and integration with Firebase for backend functionalities.
 - 🛒 [E-commerce Website](link-to-project) - A full-fledged e-commerce website with user authentication and payment integration.
 
 ### Interests
