@@ -8,12 +8,10 @@
 - 🏆 Completed the "Java Course - Mastering the Fundamentals" [Certification](https://moonshot.scaler.com/s/li/E917PSUwNz)  at SCALER-TOPICS.
 - 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer [Certification](https://www.freecodecamp.org/certification/Praveen21/javascript-algorithms-and-data-structures) from freeCodeCamp.
 - leetcode : successfully tackled over 225+ data structures and algorithms (DSA) questions, demonstrating a strong grasp of problem-solving skills 
+
 ### Projects and Contributions
-- 🚀 [Hotels.com-Clone](https://praveen-hotelscloneweb.netlify.app/). - A clone of Hotels.com featuring hotel listings, booking functionality, and user reviews.
-- 🌟 [Aria-landing Business](https://main--css-project0.netlify.app/projests/landing-page-html-css/index.html) - A modern, responsive landing page designed for a marketing Business.
-- 😎 [Find Emoji](https://praveen-find-emoji.netlify.app/) - Find-Emoji is a web-based tool that allows users to quickly search for and copy emojis. Whether you're looking for a specific emoji to express your emotions, or just exploring for fun, Emoji Finder provides a simple and intuitive interface.
 - 💰️ [Odoo ||Expense Tracker](https://praveen-expense-tracker-odoo.netlify.app/) - Odoo || Expense Tracker application, a powerful tool to help users manage their expenses, visualize spending patterns, and receive personalized financial advice. Built using HTML, CSS, JavaScript, and Chart.js, this app integrates AI to provide a comprehensive financial management experience.
-- 🌤️ [Weather App](link-to-project) - A web application that provides real-time weather updates.
+- 🌤️ [Google Drive Clone]() - A Google Drive Clone built with React, Vite, Redux, Tailwind CSS, Styled Components, Material-ui/material-icons, and Firebase. This application enables users to manage files and folders, offering features like file uploads, folder creation, deletion, and favoriting, along with a fullscreen preview option for a streamlined document management experience.
 - 📋 [Task Manager](link-to-project) - A task management tool to keep track of daily tasks.
 - 🛒 [E-commerce Website](link-to-project) - A full-fledged e-commerce website with user authentication and payment integration.
 
