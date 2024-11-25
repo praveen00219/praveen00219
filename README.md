@@ -18,7 +18,6 @@
 
 ### Interests
 - 🌐 Web Development: Specializing in both Backend and Frontend Development to create interactive, user-friendly websites. Focused on mastering Software Architecture principles and writing Clean Code to build scalable and maintainable web applications.
-- 🧠 Machine Learning: Passionate about exploring AI and ML technologies. Interested in applying machine learning techniques to solve real-world problems and enhance data-driven decision-making processes.
 
 ### Get in Touch
 - 📫 You can reach me at [Gmail](praveenbarfa001@gmail.com).
