@@ -24,6 +24,6 @@
 - 📫 You can reach me at [Gmail](praveenbarfa001@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen219/).
 - {} Leetcode profile : [Praveen](https://leetcode.com/u/Prvn21/)
-- 🌐 Visit my [portfolio website](https://praveen-portfolio-js.netlify.app/) to see more of my work.
+- 🌐 Visit my [portfolio website](https://praveen-portfolio-reactjs.netlify.app/) to see more of my work.
 
 
