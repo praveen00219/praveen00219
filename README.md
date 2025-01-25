@@ -13,7 +13,7 @@
 
 ### Projects and Contributions
 - 💰️ [Odoo ||Expense Tracker](https://praveen-expense-tracker-odoo.netlify.app/) - Odoo || Expense Tracker application, a powerful tool to help users manage their expenses, visualize spending patterns, and receive personalized financial advice. Built using HTML, CSS, JavaScript, and Chart.js, this app integrates AI to provide a comprehensive financial management experience.
-- 🌐 [MyPortfolio](https://praveen-portfolio-reactjs.netlify.app/) - This portfolio website serves as a platform to display my skills, education, projects, certifications, and contact information. It provides potential employers or collaborators with insight into my technical background, professional experience, and how to reach me.
+- 🌐 [MyPortfolio](https://praveen21-portfolio.netlify.app/) - This portfolio website serves as a platform to display my skills, education, projects, certifications, and contact information. It provides potential employers or collaborators with insight into my technical background, professional experience, and how to reach me.
 - 🎞️ [Google Drive Clone](https://praveen-google-drive-react.netlify.app/) - A Google Drive Clone built with React, Vite, Redux, Tailwind CSS, Styled Components, Material-ui/material-icons, and Firebase. This application enables users to manage files and folders, offering features like file uploads, folder creation, deletion, and favoriting, along with a fullscreen preview option for a streamlined document management experience.
 - 📋 [LinkedIn Clone](https://praveen-linked-in-clone-reactjs.netlify.app/) - This project is a clone of the LinkedIn platform, focusing on replicating its interface and functionalities. It aims to provide users with a familiar experience while showcasing my skills in front-end development and integration with Firebase for backend functionalities.
 - 🛒 [E-commerce Website](link-to-project) - A full-fledged e-commerce website with user authentication and payment integration.
@@ -25,6 +25,6 @@
 - 📫 You can reach me at [Gmail](praveenbarfa001@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen219/).
 - {} Leetcode profile : [Praveen](https://leetcode.com/u/Prvn21/)
-- 🌐 Visit my [portfolio website](https://praveen-portfolio-reactjs.netlify.app/) to see more of my work.
+- 🌐 Visit my [portfolio website](https://praveen21-portfolio.netlify.app/) to see more of my work.
 
 
