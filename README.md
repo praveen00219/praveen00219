@@ -9,7 +9,7 @@
 - 🎓 Completed the courses ["Mastering the JAVA Fundamentals"](https://certifications.geekster.in/iVqg6LsAnP_eJqsd_nKrn-geekster.pdf), ["Mastering JavaScript Programming"](https://certifications.geekster.in/ALrlplNwi9x5__0VGVfBx-geekster.pdf), and an  [SQL](https://certifications.geekster.in/yZqp3XSxCGnEM7WHDwAF4-geekster.pdf) course Certification from Geekster.
 - 🏆 Completed the "Java Course - Mastering the Fundamentals" [Certification](https://moonshot.scaler.com/s/li/E917PSUwNz)  at SCALER-TOPICS.
 - 🏆 Achieved "Legacy JavaScript Algorithms and Data Structures" Developer [Certification](https://www.freecodecamp.org/certification/Praveen21/javascript-algorithms-and-data-structures) from freeCodeCamp.
-- [leetcode](https://leetcode.com/u/Prvn21/) : Successfully tackled over 250+ data structures and algorithms (DSA) questions, demonstrating a strong grasp of problem-solving skills 
+- [leetcode](https://leetcode.com/u/Prvn21/): Successfully tackled over 250+ data structures and algorithms (DSA) questions, demonstrating a strong grasp of problem-solving skills 
 
 ### Projects and Contributions
 - 💰️ [Odoo ||Expense Tracker](https://praveen-expense-tracker-odoo.netlify.app/) - Odoo || Expense Tracker application, a powerful tool to help users manage their expenses, visualize spending patterns, and receive personalized financial advice. Built using HTML, CSS, JavaScript, and Chart.js, this app integrates AI to provide a comprehensive financial management experience.
