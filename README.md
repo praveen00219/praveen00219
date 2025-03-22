@@ -18,7 +18,7 @@
 - 📋 [LinkedIn Clone](https://praveen-linked-in-clone-reactjs.netlify.app/) - This project is a clone of the LinkedIn platform, focusing on replicating its interface and functionalities. It aims to provide users with a familiar experience while showcasing my skills in front-end development and integration with Firebase for backend functionalities.
 - 🛒 Zomato Food App (MERN Stack) [Live](https://zomato-clone-frontend-9g69.onrender.com/) & [Admin](https://zomato-clone-admin-jklc.onrender.com/add) : This is a full-stack food delivery application (including an Admin Panel) built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse the menu, add food items to their cart, place orders, and view their order history.
 
-- More project check out [portfolio website](https://praveen21-portfolio.netlify.app/)
+- For more projects check out [portfolio website](https://praveen21-portfolio.netlify.app/)
 
 ### Interests
 - 🌐 Web Development: Specializing in both Backend and Frontend Development to create interactive, user-friendly websites. Focused on mastering Software Architecture principles and writing Clean Code to build scalable and maintainable web applications.
