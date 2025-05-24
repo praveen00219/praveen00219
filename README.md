@@ -24,7 +24,7 @@
 - 🌐 Web Development: Specializing in both Backend and Frontend Development to create interactive, user-friendly websites. Focused on mastering Software Architecture principles and writing Clean Code to build scalable and maintainable web applications.
 
 ### Get in Touch
-- 📫 You can reach me at [Gmail](praveenbarfa001@gmail.com).
+- 📫 You can reach me at [Gmail](praveen2192000@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen219/).
 - {} Leetcode profile : [Praveen](https://leetcode.com/u/Prvn21/)
 - 🌐 Visit my [portfolio website](https://praveen21-portfolio.netlify.app/) to see more of my work.
