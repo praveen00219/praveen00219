@@ -2,7 +2,8 @@
 
 ### About Me
 - 💻 I’ve developed a deep understanding of web technologies, programming languages, and modern frameworks. From designing captivating front-end interfaces to building robust back-end infrastructures, I am driven by a passion for solving complex problems and delivering high-quality solutions.
-- ✨ Currently working as Software Development Engineer Intern at studentsBoat.com.
+- ✨ Currently working as Software Development Engineer at NZ Solutions, Pune (On-site).
+- ✨ Successfully completed Software Development Engineer Internship at studentsBoat, Portland, United State (Remote).
 - 🎓 Successfully completed a Full Stack Web Development [Certification](https://drive.google.com/file/d/1AFr3Ad4WNnLIt6MOIuU5Q0hKQz9XZDov/view?usp=sharing) course – Geekster, Gurugram (Haryana). 
 - 🎓 Graduated from MDS University in Ajmer (Rajasthan).
 - 🔧 Hold certificates in [Git-GitHub](https://certifications.geekster.in/-Xx-DYDop-o0sSaJ5lJnK-geekster.pdf), [Building Responsive Page](https://certifications.geekster.in/-k01RhLXfBW_3kfujnAqP-geekster.pdf), [JAVA](https://certifications.geekster.in/iVqg6LsAnP_eJqsd_nKrn-geekster.pdf), [JavaScript at Geekster](https://certifications.geekster.in/ALrlplNwi9x5__0VGVfBx-geekster.pdf), [JavaScript at freeCodeCamp](https://www.freecodecamp.org/certification/Praveen21/javascript-algorithms-and-data-structures), [Javascript (Intermediate) at HackerRank](https://www.hackerrank.com/certificates/094fd884796d), [Problem Solving (Intermediate) at HackerRank](https://www.hackerrank.com/certificates/03092ea6817f) and  [SQL](https://certifications.geekster.in/yZqp3XSxCGnEM7WHDwAF4-geekster.pdf).
